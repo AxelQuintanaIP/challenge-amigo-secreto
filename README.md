@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y más estructurada del texto para tu archivo `README.md` en GitHub:
-
----
-
 # Amigo Secreto 🎁
 
 ¡Bienvenido al proyecto **Amigo Secreto**! En este desafío, desarrollarás una aplicación interactiva que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". 
@@ -73,7 +69,3 @@ Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo y
 ---
 
 ¡Gracias por visitar este proyecto! Esperamos que disfrutes creando y utilizando esta aplicación de **Amigo Secreto**. ¡Diviértete sorteando! 🎉
-
----
-
-Este texto está diseñado para ser claro, atractivo y fácil de leer en GitHub. Puedes personalizarlo aún más según tus preferencias. ¡Buena suerte con tu proyecto! 😊
